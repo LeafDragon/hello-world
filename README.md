@@ -3,4 +3,4 @@ My first github repository
 
 Hello people.
 
-Leaf here, I like HTML, CSS, JavaScript, jQuery, Bootstrap, and Angular.
+Leaf here, I like HTML, CSS, JavaScript, jQuery, and Bootstrap.
